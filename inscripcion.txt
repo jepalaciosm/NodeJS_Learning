@@ -1,0 +1,5 @@
+El usuario con cédula: 999 y nombre: Juan
+Se inscribió al curso: 3
+El curso se llama: Excel Avanzado
+Duracion: 18 horas
+Valor: 18000

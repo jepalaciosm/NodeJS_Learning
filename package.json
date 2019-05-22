@@ -1,0 +1,15 @@
+{
+  "name": "inscripcion_cursos",
+  "version": "1.0.1",
+  "description": "proyecto en node js para mostrar cursos y hacer inscripción guardando información en un archivo de texto",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johnpalacios johnpalacios23@gmail.com",
+  "license": "ISC"
+}
